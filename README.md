@@ -54,5 +54,5 @@ Prompt 2: 👉 "QPSK modulation encodes ____ bits per symbol." Response: 2 bits 
 ### Conclusion 
 <img width="1035" height="510" alt="Screenshot 2026-02-10 142918" src="https://github.com/user-attachments/assets/396db567-6f38-432e-8cab-a6cf734dd003" />
 
-# Result: Thus the Prompts were exected succcessfully.
+# Result: Thus the Prompts were executed succcessfully.
 

@@ -29,19 +29,13 @@ Prompt 2: 👉 "List three modulation techniques used in satellite communication
 Prompt 1: 👉 "Provide a table comparing AM, FM, and QPSK modulation techniques in terms of signal quality, bandwidth, and application."
 
 Response:
+<img width="933" height="198" alt="Screenshot 2026-02-10 142733" src="https://github.com/user-attachments/assets/4f5027fd-781c-4fbf-9e31-1174af85b7ba" />
 
-Modulation	Signal Quality	Bandwidth Requirement	Application
-AM	Poor (noise sensitive)	Low	Voice transmission
-FM	Good, less noise	Medium	Radio & TV broadcast
-QPSK	High, robust	High	Digital TV, satellite multimedia
 Prompt 2: 👉 "Create a table showing three advantages and three disadvantages of QPSK modulation in satellite communication."
 
 Response:
+<img width="804" height="196" alt="Screenshot 2026-02-10 142826" src="https://github.com/user-attachments/assets/f50afc5e-4aaa-42df-8db5-94c777f89ce6" />
 
-Advantages of QPSK	Disadvantages of QPSK
-High spectral efficiency	Requires complex receiver design
-Better noise immunity	More prone to phase errors
-Suitable for multimedia signals	Needs higher bandwidth than simpler modulations
 3. Preceding Question Prompting
 Prompt 1: 👉 "Why is modulation necessary in satellite communication? Explain how QPSK helps in multimedia transmission." Response:
 
@@ -58,13 +52,7 @@ Prompt 2: 👉 "QPSK modulation encodes ____ bits per symbol." Response: 2 bits 
 
 
 ### Conclusion 
-
-Prompt Type	Use Case Scenario	Strengths	Limitations	Result
-Straightforward Prompt	Quick revision of definitions before an exam	Simple, quick recall	Too short, lacks details	Best for short answers and memory refresh
-Tabular Format Prompt	Comparing modulation techniques in study or engineering work	Structured, easy comparison, exam-friendly	Needs prior knowledge to interpret	Best for detailed comparison of AM, FM, QPSK
-Preceding Question Prompt	Understanding "why" and "how" in real communication systems	Encourages reasoning and detailed explanation	Can be lengthy, less concise	Best for conceptual understanding
-Missing Word Prompt	Testing student memory during practice/exam	Good for recall and assessment	Very narrow, no deep understanding	Best for quick recall and tests
-Result: Thus the Prompts were exected succcessfully.
+<img width="1035" height="510" alt="Screenshot 2026-02-10 142918" src="https://github.com/user-attachments/assets/396db567-6f38-432e-8cab-a6cf734dd003" />
 
 # Result: Thus the Prompts were exected succcessfully.
 
